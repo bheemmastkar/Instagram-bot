@@ -1,7 +1,5 @@
 # Instagram-bot
 
-# Instagram-bot
-
 A Instagram Bot developed in Python who likes posts with
 
 Do you use Instagram? Do you want to know how to build an Instagram Bot?
@@ -19,13 +17,17 @@ This code is for educational purposes only and the author is not responsible for
 # Tweepy:
 You can refer to the Instapy's documentation
 
-# Installation:
-  pip install Instapy
-
+Installation:
+==========================
+```
+pip install Instapy
+```
 Important: Depending on your system, make sure to use pip3 and python3 instead.
 
 If you would like to install a specific version of Instapy you may do so with:
-  pip install instapy==0.1.1
+```
+pip install instapy==0.1.1
+```
 
 <p align="left">
   <b><i><b>Let's connect! Find me on the web.</b></i></b>
