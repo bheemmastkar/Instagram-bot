@@ -1,6 +1,8 @@
 # Instagram-bot
 
-A Instagram Bot developed in Python who likes posts with
+A Instagram Bot developed in Python who likes post with:
+![Cover](https://user-images.githubusercontent.com/108661620/179984595-054c11f0-b38d-40a1-a973-937cc30a18e3.jpg)
+
 
 Do you use Instagram? Do you want to know how to build an Instagram Bot?
 
